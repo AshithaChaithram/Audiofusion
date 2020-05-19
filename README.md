@@ -1,0 +1,2 @@
+# Audiofusion
+This is just a part of my degree project where we use audio staganography. Steganography  is the practice of concealing a file, message, image, or video within another file, message, image, or video. This code is written in c# . The whole point is to convert both text and audio into binary digits and combine them in a way that produce less noise in the audio. Then when someone without a decryption algorithm will not even know the audio contains some data. 
